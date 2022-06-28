@@ -28,7 +28,7 @@
 - [Consensys](https://consensys.net/search/)
 - [Medium](https://medium.com)
 
-**Viable Token Launch Options**
+**Viable Token Launch Options:**
 * Liquidity Balancer Pools:
   - [Liquidity Bootstrapping pools](https://docs.balancer.fi/products/balancer-pools/liquidity-bootstrapping-pools-lbps)
   - [A new paradigm for token distribution](https://medium.com/balancer-protocol/a-new-paradigm-for-token-distribution-c82de13626bb)
