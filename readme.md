@@ -34,5 +34,6 @@
   - [A new paradigm for token distribution](https://medium.com/balancer-protocol/a-new-paradigm-for-token-distribution-c82de13626bb)
   - [Building liquidity in token distribution](https://medium.com/balancer-protocol/building-liquidity-into-token-distribution-a49d4286e0d4)
   - [Understanding Balancer pools](https://medium.com/balancer-simulations/understanding-balancer-pools-c2b877dcc082)
+  - [LBP examples](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2)
 
 
