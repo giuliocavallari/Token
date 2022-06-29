@@ -44,7 +44,8 @@
   - [What is it?](https://medium.com/onomy-protocol/what-is-a-bonding-curve-offering-bco-12518e0a98fc)
 
 * Initial Exchange Offering:
-- https://medium.com/@konstantin_98196/are-ieos-the-new-icos-what-is-an-initial-exchange-offering-ieo-c1aa76a8aac4
+  - https://medium.com/@konstantin_98196/are-ieos-the-new-icos-what-is-an-initial-exchange-offering-ieo-c1aa76a8aac4
+  - https://learn.bybit.com/crypto/what-are-initial-exchange-offerings-ieos/
   
 **Things which I want to read**
 - [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
