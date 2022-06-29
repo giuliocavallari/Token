@@ -35,6 +35,7 @@
   - [Building liquidity in token distribution](https://medium.com/balancer-protocol/building-liquidity-into-token-distribution-a49d4286e0d4)
   - [Understanding Balancer pools](https://medium.com/balancer-simulations/understanding-balancer-pools-c2b877dcc082)
   - [LBP examples](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2)
+  - [Python code for simulation of a Liquidity Balancer Pool](https://github.com/TokenEngineeringCommunity/BalancerPools_Model)
 
 **Things which I want to read**
 - [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
