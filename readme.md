@@ -36,4 +36,7 @@
   - [Understanding Balancer pools](https://medium.com/balancer-simulations/understanding-balancer-pools-c2b877dcc082)
   - [LBP examples](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2)
 
-
+**Things which I want to read**
+- [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
+- [Tokenomics of the TokenomicsDAO](https://ffstrauf.medium.com/defining-the-tokenomics-of-the-tokenomics-dao-34adff0347a4)
+- [Tokenomics inbetween Chains](https://medium.com/coinmonks/tokenomics-101-in-between-chains-dc76050f2377)
