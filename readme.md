@@ -40,6 +40,9 @@
 * What should an optimal token launch model have?:
   - [Delphi digital Lokckup  + Liquidity Boostraping Auction](https://twitter.com/Delphi_Digital/status/1466439783710875657/photo/1)
 
+* Bonding Curve Offering:
+  - [What is it?](https://medium.com/onomy-protocol/what-is-a-bonding-curve-offering-bco-12518e0a98fc)
+  
 **Things which I want to read**
 - [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
 - [Tokenomics of the TokenomicsDAO](https://ffstrauf.medium.com/defining-the-tokenomics-of-the-tokenomics-dao-34adff0347a4)
