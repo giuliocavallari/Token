@@ -36,6 +36,7 @@
   - [Understanding Balancer pools](https://medium.com/balancer-simulations/understanding-balancer-pools-c2b877dcc082)
   - [LBP examples](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2)
   - [Python code for simulation of a Liquidity Balancer Pool](https://github.com/TokenEngineeringCommunity/BalancerPools_Model)
+  - [LBPs general article](https://globalcoinresearch.com/2022/01/19/liquidity-bootstrapping-pools-explained/)
 
 * What should an optimal token launch model have?:
   - [Delphi digital Lokckup  + Liquidity Boostraping Auction](https://twitter.com/Delphi_Digital/status/1466439783710875657/photo/1)
