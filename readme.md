@@ -55,7 +55,8 @@
 
 * Inital DEX offering:
   - Example UMA:
-    -[UMA IDO](https://www.coindesk.com/price/uma-protocol/)
+    - [UMA IDO](https://www.coindesk.com/price/uma-protocol/)
+    - [UMA IDO price stability](https://twitter.com/Amun/status/1255892946169274370?s=20)
      
 
 * Other:
