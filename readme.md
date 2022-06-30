@@ -64,6 +64,7 @@
 
 * Other:
   - [Historic take -from IDOs to ICOs](https://medium.com/hackernoon/ico-101-history-of-initial-coin-offerings-icos-part-1-from-mastercoin-to-ethereum-4689b7c2326b)
+  - [How to launch your own token](https://maxya.mp/how-to-launch-your-token-in-2022-founders-checklist)
   
 **Things which I want to read**
 - [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
