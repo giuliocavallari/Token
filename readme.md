@@ -47,6 +47,10 @@
 * Initial Exchange Offering:
   - https://medium.com/@konstantin_98196/are-ieos-the-new-icos-what-is-an-initial-exchange-offering-ieo-c1aa76a8aac4
   - https://learn.bybit.com/crypto/what-are-initial-exchange-offerings-ieos/
+
+ * Initial Coin offering:
+  - [What is an ICO](https://www.investopedia.com/news/what-ico/)
+  - [Ethereum's ICO](https://www.gemini.com/cryptopedia/initial-coin-offering-explained-ethereum-ico)
   
 **Things which I want to read**
 - [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
