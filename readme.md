@@ -51,6 +51,9 @@
  * Initial Coin offering:
   - [What is an ICO](https://www.investopedia.com/news/what-ico/)
   - [Ethereum's ICO](https://www.gemini.com/cryptopedia/initial-coin-offering-explained-ethereum-ico)
+
+* Other:
+-[Historic take -from IDOs to ICOs](https://medium.com/hackernoon/ico-101-history-of-initial-coin-offerings-icos-part-1-from-mastercoin-to-ethereum-4689b7c2326b)
   
 **Things which I want to read**
 - [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
