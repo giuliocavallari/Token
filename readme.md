@@ -57,6 +57,7 @@
   - Example UMA:
     - [UMA IDO](https://www.coindesk.com/price/uma-protocol/)
     - [UMA IDO price stability](https://twitter.com/Amun/status/1255892946169274370?s=20)
+    - [UMA price data at launch](https://dune.com/Amun/uma-protocol-uniswap-sale-created-by-amun-research-)
      
 
 * Other:
