@@ -56,9 +56,11 @@
 * Inital DEX offering:
   - Example UMA:
     - [UMA IDO](https://www.coindesk.com/price/uma-protocol/)
-    - [UMA IDO price stability](https://twitter.com/Amun/status/1255892946169274370?s=20)
+    - [UMA price mechanics](https://twitter.com/Amun/status/1255892946169274370?s=20)
     - [UMA price data at launch](https://dune.com/Amun/uma-protocol-uniswap-sale-created-by-amun-research-)
-     
+  - Example BZX protocol:
+    - [BZRX IDO](https://newsletter.thedefiant.io/p/instant-500k-profits-on-bzrx-raises)
+    - [BZRX price mechanics](https://twitter.com/angelomint/status/1282772406231273478?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1282772406231273478%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fdefirate.com%2Fbzrx-initial-dex-offering%2F)
 
 * Other:
   - [Historic take -from IDOs to ICOs](https://medium.com/hackernoon/ico-101-history-of-initial-coin-offerings-icos-part-1-from-mastercoin-to-ethereum-4689b7c2326b)
