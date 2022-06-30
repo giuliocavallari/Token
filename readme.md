@@ -55,8 +55,8 @@
 
 * Inital DEX offering:
   - Example UMA:
-    -- [UMA IDO](https://www.coindesk.com/price/uma-protocol/)
-    -- 
+    -[UMA IDO](https://www.coindesk.com/price/uma-protocol/)
+     
 
 * Other:
   - [Historic take -from IDOs to ICOs](https://medium.com/hackernoon/ico-101-history-of-initial-coin-offerings-icos-part-1-from-mastercoin-to-ethereum-4689b7c2326b)
