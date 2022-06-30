@@ -49,6 +49,7 @@
   - https://learn.bybit.com/crypto/what-are-initial-exchange-offerings-ieos/
 
  * Initial Coin offering:
+  - [History of ICOs](https://hackernoon.com/a-comprehensive-guide-to-icos-crypto-funding-the-rise-the-boom-the-bust-the-next-b159fdf38010)
   - [What is an ICO](https://www.investopedia.com/news/what-ico/)
   - [Ethereum's ICO](https://www.gemini.com/cryptopedia/initial-coin-offering-explained-ethereum-ico)
 
