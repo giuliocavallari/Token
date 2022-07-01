@@ -6,6 +6,9 @@
 - [cadCAD](http://cadcad.org/)
 - [Uniswap cadCAD models](https://github.com/BlockScience/uniswap)
 
+**Automated Market Makers:**
+- [How an AMM works](https://blog.gnosis.pm/building-a-decentralized-exchange-in-ethereum-eea4e7452d6e)
+
 **Bonding curves:**
 * https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a
 * https://medium.com/linum-labs/ethereum-tokens-explained-ffe9df918008
