@@ -73,3 +73,5 @@
 - https://hackernoon.com/why-liquidity-bootstrap-pools-are-the-future-of-fundraising-h6w33bc
 - https://blog.perp.fi/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82
 - https://twitter.com/gabrielgfoo/status/1470460354329071619?lang=en-GB
+- https://twitter.com/reptilepres/status/1494388949908803588
+- 
