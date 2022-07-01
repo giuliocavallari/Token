@@ -1,3 +1,8 @@
+**Research focused initiatives:**
+- [Consensys](https://consensys.net/search/)
+- [Medium](https://medium.com)
+- [cadCAD](http://cadcad.org/)
+
 **Bonding curves:**
 * https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a
 * https://medium.com/linum-labs/ethereum-tokens-explained-ffe9df918008
@@ -23,10 +28,6 @@
   -	[CAKE Tokenomics](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
   -	[CAKE Tokenomics update litepaper](https://v2litepaper.pancakeswap.finance/)
   -	[Visual map](https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FTzGQMFtQxQq5eCHq0wiD%2Ftokenomics-chart-0624.png?alt=media&token=47c8b80a-832a-45cb-b003-3fe181dae6c4)
-
-**Research focused initiatives where useful information can be found:**
-- [Consensys](https://consensys.net/search/)
-- [Medium](https://medium.com)
 
 **Viable Token Launch Options:**
 * Liquidity Balancer Pools:
