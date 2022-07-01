@@ -1,7 +1,10 @@
 **Research focused initiatives:**
 - [Consensys](https://consensys.net/search/)
 - [Medium](https://medium.com)
+
+**Interesting research material:***
 - [cadCAD](http://cadcad.org/)
+- [Uniswap cadCAD models](https://github.com/BlockScience/uniswap)
 
 **Bonding curves:**
 * https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a
