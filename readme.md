@@ -37,9 +37,6 @@
   - [LBP examples](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2)
   - [Python code for simulation of a Liquidity Balancer Pool](https://github.com/TokenEngineeringCommunity/BalancerPools_Model)
   - [LBPs general article](https://globalcoinresearch.com/2022/01/19/liquidity-bootstrapping-pools-explained/)
-  - https://blog.perp.fi/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82
-  - https://twitter.com/gabrielgfoo/status/1470460354329071619?lang=en-GB
-  - 
 
 * What should an optimal token launch model have?:
   - [Delphi digital Lokckup  + Liquidity Boostraping Auction](https://twitter.com/Delphi_Digital/status/1466439783710875657/photo/1)
@@ -73,3 +70,6 @@
 - [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
 - [Tokenomics of the TokenomicsDAO](https://ffstrauf.medium.com/defining-the-tokenomics-of-the-tokenomics-dao-34adff0347a4)
 - [Tokenomics inbetween Chains](https://medium.com/coinmonks/tokenomics-101-in-between-chains-dc76050f2377)
+- https://hackernoon.com/why-liquidity-bootstrap-pools-are-the-future-of-fundraising-h6w33bc
+- https://blog.perp.fi/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82
+- https://twitter.com/gabrielgfoo/status/1470460354329071619?lang=en-GB
