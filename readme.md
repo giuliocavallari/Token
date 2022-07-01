@@ -8,6 +8,8 @@
 
 **Automated Market Makers:**
 - [How an AMM works](https://blog.gnosis.pm/building-a-decentralized-exchange-in-ethereum-eea4e7452d6e)
+- [Balancer Pools](https://balancer.fi/whitepaper.pdf#constant-value-distribution-proof_)
+  - Has great information on how AMMs and Liquidity Pools in general work
 
 **Bonding curves:**
 * https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a
