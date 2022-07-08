@@ -39,6 +39,7 @@
 **Viable Token Launch Options:**
 *Lockdrop + Liquidity Bootstrapping Auction:
   - [Delphi Digital introduction to LLBA](https://twitter.com/Delphi_Digital/status/1466439597316050951)
+  - [Critical analysis of LLBA](https://coinyuppie.com/new-experiment-of-token-issuance-in-depth-understanding-of-the-lock-up-liquidity-guided-auction-model/)
 
 * Liquidity Bootstrapping Pools:
   - [Liquidity Bootstrapping pools](https://docs.balancer.fi/products/balancer-pools/liquidity-bootstrapping-pools-lbps)
