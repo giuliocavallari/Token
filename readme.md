@@ -37,7 +37,10 @@
   -	[Visual map](https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FTzGQMFtQxQq5eCHq0wiD%2Ftokenomics-chart-0624.png?alt=media&token=47c8b80a-832a-45cb-b003-3fe181dae6c4)
 
 **Viable Token Launch Options:**
-* Liquidity Balancer Pools:
+*Lockdrop + Liquidity Bootstrapping Auction:
+  - [Delphi Digital introduction to LLBA](https://twitter.com/Delphi_Digital/status/1466439597316050951)
+
+* Liquidity Bootstrapping Pools:
   - [Liquidity Bootstrapping pools](https://docs.balancer.fi/products/balancer-pools/liquidity-bootstrapping-pools-lbps)
   - [A new paradigm for token distribution](https://medium.com/balancer-protocol/a-new-paradigm-for-token-distribution-c82de13626bb)
   - [Building liquidity in token distribution](https://medium.com/balancer-protocol/building-liquidity-into-token-distribution-a49d4286e0d4)
@@ -82,4 +85,4 @@
 - https://blog.perp.fi/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82
 - https://twitter.com/gabrielgfoo/status/1470460354329071619?lang=en-GB
 - https://twitter.com/reptilepres/status/1494388949908803588
-- 
+
