@@ -73,9 +73,9 @@
 - [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
 - [Tokenomics of the TokenomicsDAO](https://ffstrauf.medium.com/defining-the-tokenomics-of-the-tokenomics-dao-34adff0347a4)
 - [Tokenomics inbetween Chains](https://medium.com/coinmonks/tokenomics-101-in-between-chains-dc76050f2377)
-- https://hackernoon.com/why-liquidity-bootstrap-pools-are-the-future-of-fundraising-h6w33bc
-- https://blog.perp.fi/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82
-- https://twitter.com/gabrielgfoo/status/1470460354329071619?lang=en-GB
-- https://twitter.com/reptilepres/status/1494388949908803588
+- [Why LBPS are the future of fundraising](https://hackernoon.com/why-liquidity-bootstrap-pools-are-the-future-of-fundraising-h6w33bc)
+- [The first LBP](https://blog.perp.fi/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82)
+- [What are LBPS Twitter thread](https://twitter.com/gabrielgfoo/status/1470460354329071619?lang=en-GB)
+- [LBP changing the game Twitter thread](https://twitter.com/reptilepres/status/1494388949908803588)
 - Secondary market for defi kingdom token
 
