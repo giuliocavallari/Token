@@ -11,23 +11,31 @@
 - [Balancer Pools](https://balancer.fi/whitepaper.pdf#constant-value-distribution-proof_) - Has great information on how AMMs and Liquidity Pools in general work
 
 **Bonding curves:**
-* https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a
-* https://medium.com/linum-labs/ethereum-tokens-explained-ffe9df918008
-* https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e
-* https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5
-* https://messari.io/article/bonding-curves
-* https://dev.to/ceonyema/bonding-curve-offering-an-efficient-and-transparent-funding-model-4oae
-* https://medium.com/molecule-blog/token-bonding-curve-design-parameters-95d365cbec4f
+* [Introudction to bonding curves](https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a)
+* [Ethereum Token's explainged](https://medium.com/linum-labs/ethereum-tokens-explained-ffe9df918008)
+* [Explanationf of bonding curves](https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e)
+* [Token bonding curves in curation markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
+* [Messari introudction to bonding curves](https://messari.io/article/bonding-curves)
+* [Bonding curves and funding models](https://dev.to/ceonyema/bonding-curve-offering-an-efficient-and-transparent-funding-model-4oae)
+* [Bonding curve parameters](https://medium.com/molecule-blog/token-bonding-curve-design-parameters-95d365cbec4f)
 
 **Viable Token Launch Options:**
-*Lockdrop + Liquidity Bootstrapping Auction:
+* Introduction to token launches:
+  - [Recent trends in token distribution](https://variant.fund/writing/recent-trends-in-token-distribution)
+
+* Lockdrop + Liquidity Bootstrapping Auction:
   - [Delphi Digital introduction to LLBA](https://twitter.com/Delphi_Digital/status/1466439597316050951)
   - [Critical analysis of LLBA](https://coinyuppie.com/new-experiment-of-token-issuance-in-depth-understanding-of-the-lock-up-liquidity-guided-auction-model/)
+  - [In depth analysis of the LLBA](https://coinyuppie.com/new-experiment-of-token-issuance-in-depth-understanding-of-the-lock-up-liquidity-guided-auction-model/)
+  - Example ASTROPORT:
+    - [Recapping ASTROPORT's token launch](https://astroport.medium.com/mission-accomplished-recapping-astroports-phase-1-lockdrop-64d0c32e50cf)
+    - [A data driven analysis of ASTROPORT's token launch](https://medium.com/@incioman/astroport-launch-a-data-driven-analysis-430ac6928be8)
 
 * Liquidity Bootstrapping Pools:
   - [Liquidity Bootstrapping pools](https://docs.balancer.fi/products/balancer-pools/liquidity-bootstrapping-pools-lbps)
   - [A new paradigm for token distribution](https://medium.com/balancer-protocol/a-new-paradigm-for-token-distribution-c82de13626bb)
   - [Building liquidity in token distribution](https://medium.com/balancer-protocol/building-liquidity-into-token-distribution-a49d4286e0d4)
+  - [Dynamic weight changes](https://medium.com/powerpool/dynamic-weights-changing-model-for-powerindex-the-amm-pool-of-8-tokens-6213f24f56f1)
   - [Understanding Balancer pools](https://medium.com/balancer-simulations/understanding-balancer-pools-c2b877dcc082)
   - [LBP examples](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2)
   - [Python code for simulation of a Liquidity Balancer Pool](https://github.com/TokenEngineeringCommunity/BalancerPools_Model)
@@ -61,7 +69,7 @@
   - [Historic take -from IDOs to ICOs](https://medium.com/hackernoon/ico-101-history-of-initial-coin-offerings-icos-part-1-from-mastercoin-to-ethereum-4689b7c2326b)
   - [How to launch your own token](https://maxya.mp/how-to-launch-your-token-in-2022-founders-checklist)
   
-**Things which I want to read**
+**Things which to read**
 - [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
 - [Tokenomics of the TokenomicsDAO](https://ffstrauf.medium.com/defining-the-tokenomics-of-the-tokenomics-dao-34adff0347a4)
 - [Tokenomics inbetween Chains](https://medium.com/coinmonks/tokenomics-101-in-between-chains-dc76050f2377)
@@ -69,4 +77,5 @@
 - https://blog.perp.fi/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82
 - https://twitter.com/gabrielgfoo/status/1470460354329071619?lang=en-GB
 - https://twitter.com/reptilepres/status/1494388949908803588
+- Secondary market for defi kingdom token
 
