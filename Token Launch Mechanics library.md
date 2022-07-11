@@ -6,22 +6,12 @@
 - [cadCAD](http://cadcad.org/)
 - [Uniswap cadCAD models](https://github.com/BlockScience/uniswap)
 
-**Automated Market Makers:**
-- [How an AMM works](https://blog.gnosis.pm/building-a-decentralized-exchange-in-ethereum-eea4e7452d6e)
-- [Balancer Pools](https://balancer.fi/whitepaper.pdf#constant-value-distribution-proof_) - Has great information on how AMMs and Liquidity Pools in general work
-
-**Bonding curves:**
-* [Introudction to bonding curves](https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a)
-* [Ethereum Token's explainged](https://medium.com/linum-labs/ethereum-tokens-explained-ffe9df918008)
-* [Explanationf of bonding curves](https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e)
-* [Token bonding curves in curation markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
-* [Messari introudction to bonding curves](https://messari.io/article/bonding-curves)
-* [Bonding curves and funding models](https://dev.to/ceonyema/bonding-curve-offering-an-efficient-and-transparent-funding-model-4oae)
-* [Bonding curve parameters](https://medium.com/molecule-blog/token-bonding-curve-design-parameters-95d365cbec4f)
-
 **Viable Token Launch Options:**
 * Introduction to token launches:
   - [Recent trends in token distribution](https://variant.fund/writing/recent-trends-in-token-distribution)
+
+* What should an optimal token launch model have?:
+  - [Delphi digital Lokckup  + Liquidity Boostraping Auction](https://twitter.com/Delphi_Digital/status/1466439783710875657/photo/1)
 
 * Lockdrop + Liquidity Bootstrapping Auction:
   - [Delphi Digital introduction to LLBA](https://twitter.com/Delphi_Digital/status/1466439597316050951)
@@ -41,8 +31,14 @@
   - [Python code for simulation of a Liquidity Balancer Pool](https://github.com/TokenEngineeringCommunity/BalancerPools_Model)
   - [LBPs general article](https://globalcoinresearch.com/2022/01/19/liquidity-bootstrapping-pools-explained/)
 
-* What should an optimal token launch model have?:
-  - [Delphi digital Lokckup  + Liquidity Boostraping Auction](https://twitter.com/Delphi_Digital/status/1466439783710875657/photo/1)
+* Inital DEX offering:
+  - Example UMA:
+    - [UMA IDO](https://www.coindesk.com/price/uma-protocol/)
+    - [UMA price mechanics](https://twitter.com/Amun/status/1255892946169274370?s=20)
+    - [UMA price data at launch](https://dune.com/Amun/uma-protocol-uniswap-sale-created-by-amun-research-)
+  - Example BZX protocol:
+    - [BZRX IDO](https://newsletter.thedefiant.io/p/instant-500k-profits-on-bzrx-raises)
+    - [BZRX price mechanics](https://twitter.com/angelomint/status/1282772406231273478?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1282772406231273478%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fdefirate.com%2Fbzrx-initial-dex-offering%2F)
 
 * Bonding Curve Offering:
   - [What is it?](https://medium.com/onomy-protocol/what-is-a-bonding-curve-offering-bco-12518e0a98fc)
@@ -56,18 +52,22 @@
   - [What is an ICO](https://www.investopedia.com/news/what-ico/)
   - [Ethereum's ICO](https://www.gemini.com/cryptopedia/initial-coin-offering-explained-ethereum-ico)
 
-* Inital DEX offering:
-  - Example UMA:
-    - [UMA IDO](https://www.coindesk.com/price/uma-protocol/)
-    - [UMA price mechanics](https://twitter.com/Amun/status/1255892946169274370?s=20)
-    - [UMA price data at launch](https://dune.com/Amun/uma-protocol-uniswap-sale-created-by-amun-research-)
-  - Example BZX protocol:
-    - [BZRX IDO](https://newsletter.thedefiant.io/p/instant-500k-profits-on-bzrx-raises)
-    - [BZRX price mechanics](https://twitter.com/angelomint/status/1282772406231273478?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1282772406231273478%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fdefirate.com%2Fbzrx-initial-dex-offering%2F)
-
 * Other:
   - [Historic take -from IDOs to ICOs](https://medium.com/hackernoon/ico-101-history-of-initial-coin-offerings-icos-part-1-from-mastercoin-to-ethereum-4689b7c2326b)
   - [How to launch your own token](https://maxya.mp/how-to-launch-your-token-in-2022-founders-checklist)
+
+**Automated Market Makers:**
+- [How an AMM works](https://blog.gnosis.pm/building-a-decentralized-exchange-in-ethereum-eea4e7452d6e)
+- [Balancer Pools](https://balancer.fi/whitepaper.pdf#constant-value-distribution-proof_) - Has great information on how AMMs and Liquidity Pools in general work
+
+**Bonding curves:**
+* [Introudction to bonding curves](https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a)
+* [Ethereum Token's explainged](https://medium.com/linum-labs/ethereum-tokens-explained-ffe9df918008)
+* [Explanationf of bonding curves](https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e)
+* [Token bonding curves in curation markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
+* [Messari introudction to bonding curves](https://messari.io/article/bonding-curves)
+* [Bonding curves and funding models](https://dev.to/ceonyema/bonding-curve-offering-an-efficient-and-transparent-funding-model-4oae)
+* [Bonding curve parameters](https://medium.com/molecule-blog/token-bonding-curve-design-parameters-95d365cbec4f)
   
 **Things which to read**
 - [Token Engeneering Fundamentals](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5)
