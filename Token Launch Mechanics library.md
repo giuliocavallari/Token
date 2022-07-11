@@ -2,7 +2,7 @@
 - [Consensys](https://consensys.net/search/)
 - [Medium](https://medium.com)
 
-**Interesting research material:***
+**Interesting research material:**
 - [cadCAD](http://cadcad.org/)
 - [Uniswap cadCAD models](https://github.com/BlockScience/uniswap)
 
