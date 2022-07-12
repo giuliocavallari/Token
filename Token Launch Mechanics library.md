@@ -30,6 +30,8 @@
   - [LBP examples](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2)
   - [Python code for simulation of a Liquidity Balancer Pool](https://github.com/TokenEngineeringCommunity/BalancerPools_Model)
   - [LBPs general article](https://globalcoinresearch.com/2022/01/19/liquidity-bootstrapping-pools-explained/)
+  - [Copper - what is an LBP](https://docs.alchemist.wtf/copper/lbps/what-is-a-liquidity-bootstrapping-pool)
+    - [Liquidity Bootstrapping Pool Simulation](https://docs.google.com/spreadsheets/d/125MgAqv0f81Qp6y9VZHAcwMkVhvdcNKA/edit#gid=745957496)
 
 * Inital DEX offering:
   - Example UMA:
