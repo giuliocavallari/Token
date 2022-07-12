@@ -34,6 +34,8 @@
   - LBPs simulations:
     - [Liquidity Bootstrapping Pool Simulation](https://docs.google.com/spreadsheets/d/125MgAqv0f81Qp6y9VZHAcwMkVhvdcNKA/edit#gid=745957496)
     - [Python code for simulation of a Liquidity Balancer Pool](https://github.com/TokenEngineeringCommunity/BalancerPools_Model)
+    - [Ethereum Mainnet simulation](https://copperlaunch.com/create)
+    - [Polygon Mainnet simulation](https://polygon.copperlaunch.com/create)
 
 * Inital DEX offering:
   - Example UMA:
