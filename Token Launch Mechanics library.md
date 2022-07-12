@@ -28,10 +28,12 @@
   - [Dynamic weight changes](https://medium.com/powerpool/dynamic-weights-changing-model-for-powerindex-the-amm-pool-of-8-tokens-6213f24f56f1)
   - [Understanding Balancer pools](https://medium.com/balancer-simulations/understanding-balancer-pools-c2b877dcc082)
   - [LBP examples](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2)
-  - [Python code for simulation of a Liquidity Balancer Pool](https://github.com/TokenEngineeringCommunity/BalancerPools_Model)
   - [LBPs general article](https://globalcoinresearch.com/2022/01/19/liquidity-bootstrapping-pools-explained/)
   - [Copper - what is an LBP](https://docs.alchemist.wtf/copper/lbps/what-is-a-liquidity-bootstrapping-pool)
+
+  - LBPs simulations:
     - [Liquidity Bootstrapping Pool Simulation](https://docs.google.com/spreadsheets/d/125MgAqv0f81Qp6y9VZHAcwMkVhvdcNKA/edit#gid=745957496)
+    - [Python code for simulation of a Liquidity Balancer Pool](https://github.com/TokenEngineeringCommunity/BalancerPools_Model)
 
 * Inital DEX offering:
   - Example UMA:
