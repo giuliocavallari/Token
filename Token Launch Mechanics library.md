@@ -94,3 +94,4 @@
 - https://medium.com/block-science/personal-research-statement-b09defefc331
 - https://block.science/
 - https://giveth.io/#dapp
+- https://medium.com/giveth/the-abcs-of-donating-on-giveth-6e3bd147397e
