@@ -88,3 +88,4 @@
 - [LBP changing the game Twitter thread](https://twitter.com/reptilepres/status/1494388949908803588)
 - Secondary market for defi kingdom token
 
+- https://medium.com/giveth/deep-dive-augmented-bonding-curves-3f1f7c1fa751
