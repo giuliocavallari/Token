@@ -30,6 +30,9 @@
   - [LBP examples](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2)
   - [LBPs general article](https://globalcoinresearch.com/2022/01/19/liquidity-bootstrapping-pools-explained/)
   - [Copper - what is an LBP](https://docs.alchemist.wtf/copper/lbps/what-is-a-liquidity-bootstrapping-pool)
+  - [WTF is an LBP twitter thread](https://twitter.com/GabrielGFoo/status/1470460354329071619)
+  - Example PERP:
+    - [Perp LBP analysis](https://twitter.com/perpprotocol/status/1305506540116344832)
 
   - LBPs simulations:
     - [Liquidity Bootstrapping Pool Simulation](https://docs.google.com/spreadsheets/d/125MgAqv0f81Qp6y9VZHAcwMkVhvdcNKA/edit#gid=745957496)
