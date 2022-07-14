@@ -16,7 +16,6 @@
 * Lockdrop + Liquidity Bootstrapping Auction:
   - [Delphi Digital introduction to LLBA](https://twitter.com/Delphi_Digital/status/1466439597316050951)
   - [Critical analysis of LLBA](https://coinyuppie.com/new-experiment-of-token-issuance-in-depth-understanding-of-the-lock-up-liquidity-guided-auction-model/)
-  - [In depth analysis of the LLBA](https://coinyuppie.com/new-experiment-of-token-issuance-in-depth-understanding-of-the-lock-up-liquidity-guided-auction-model/)
   - Example ASTROPORT:
     - [Recapping ASTROPORT's token launch](https://astroport.medium.com/mission-accomplished-recapping-astroports-phase-1-lockdrop-64d0c32e50cf)
     - [A data driven analysis of ASTROPORT's token launch](https://medium.com/@incioman/astroport-launch-a-data-driven-analysis-430ac6928be8)
