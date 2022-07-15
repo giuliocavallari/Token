@@ -95,3 +95,4 @@
 - https://block.science/
 - https://giveth.io/#dapp
 - https://medium.com/giveth/the-abcs-of-donating-on-giveth-6e3bd147397e
+-[Protocol owned liquidity](https://blog.tally.xyz/the-search-for-sustainable-liquidity-9d592b4fa650)
