@@ -96,3 +96,4 @@
 - https://giveth.io/#dapp
 - https://medium.com/giveth/the-abcs-of-donating-on-giveth-6e3bd147397e
 -[Protocol owned liquidity](https://blog.tally.xyz/the-search-for-sustainable-liquidity-9d592b4fa650)
+- Active liquidity management FWB x LlamaDao](https://snapshot.org/#/friendswithbenefits.eth/proposal/0x6b256c533b2f4714f9ba68e454e670347ed1511bbcc03dee3e810a4d7aa119e2)
