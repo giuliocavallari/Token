@@ -5,6 +5,8 @@
 **Interesting research material:**
 - [cadCAD](http://cadcad.org/)
 - [Uniswap cadCAD models](https://github.com/BlockScience/uniswap)
+- [Flipside Crypto](https://app.flipsidecrypto.com/)
+  - [API Flipside Crypto](https://blog.flipsidecrypto.com/flipside-api-video/) 
 
 **Viable Token Launch Options:**
 * Introduction to token launches:
@@ -23,6 +25,7 @@
     - [Recapping ASTROPORT's token launch](https://astroport.medium.com/mission-accomplished-recapping-astroports-phase-1-lockdrop-64d0c32e50cf)
     - [A data driven analysis of ASTROPORT's token launch](https://medium.com/@incioman/astroport-launch-a-data-driven-analysis-430ac6928be8)
     - [ASTROPORT token launch explained](https://elenahoo.medium.com/astroport-launch-rewards-and-how-you-can-participate-4a8b1cc2499a)
+    - [Access to data](https://colab.research.google.com/drive/1SqpojwToev5dr26LERE5_VJ4lhZLgdbj?usp=sharing#scrollTo=oql9fkqB0Pqe)
 
   - Example MARS:
     - [MARS LLBA](https://mars-protocol.medium.com/mars-distribution-plan-the-mars-token-launch-lockdrop-and-more-9f6d2dc0995c) 
