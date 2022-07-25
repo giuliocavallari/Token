@@ -24,6 +24,20 @@
     - [A data driven analysis of ASTROPORT's token launch](https://medium.com/@incioman/astroport-launch-a-data-driven-analysis-430ac6928be8)
     - [ASTROPORT token launch explained](https://elenahoo.medium.com/astroport-launch-rewards-and-how-you-can-participate-4a8b1cc2499a)
 
+  - Example MARS:
+    - [MARS LLBA](https://mars-protocol.medium.com/mars-distribution-plan-the-mars-token-launch-lockdrop-and-more-9f6d2dc0995c) 
+
+  - Example BASTION:
+    - [Phase 1](https://bastionprotocol.medium.com/bastion-lockdrop-faq-d230b95dea34)
+    - [Phase 2](https://bastionprotocol.medium.com/lockdrop-phase-ii-stableswap-810dcb08676a)
+
+* Fair Launch:
+  - Example MANGO:
+    - [Mango fair token launch](https://docs.mango.markets/litepaper)
+    - [Phase 1 Mango launch](https://twitter.com/tjshipe/status/1424886666783772679)
+    - [Phase 2 Mango launch](https://twitter.com/tjshipe/status/1425555571709784069)
+    - [Flaws of Mango token launch] (https://twitter.com/tjshipe/status/1424886666783772679)
+
 * Liquidity Bootstrapping Pools:
   - [Liquidity Bootstrapping pools](https://docs.balancer.fi/products/balancer-pools/liquidity-bootstrapping-pools-lbps)
   - [A new paradigm for token distribution](https://medium.com/balancer-protocol/a-new-paradigm-for-token-distribution-c82de13626bb)
@@ -56,8 +70,8 @@
   - [What is it?](https://medium.com/onomy-protocol/what-is-a-bonding-curve-offering-bco-12518e0a98fc)
 
 * Initial Exchange Offering:
-  - https://medium.com/@konstantin_98196/are-ieos-the-new-icos-what-is-an-initial-exchange-offering-ieo-c1aa76a8aac4
-  - https://learn.bybit.com/crypto/what-are-initial-exchange-offerings-ieos/
+  - [What are IEOs?](https://learn.bybit.com/crypto/what-are-initial-exchange-offerings-ieos/)
+  - [Are IEOs the new ICOs?s](https://medium.com/@konstantin_98196/are-ieos-the-new-icos-what-is-an-initial-exchange-offering-ieo-c1aa76a8aac4)
 
 * Initial Coin offering:
   - [History of ICOs](https://hackernoon.com/a-comprehensive-guide-to-icos-crypto-funding-the-rise-the-boom-the-bust-the-next-b159fdf38010)
