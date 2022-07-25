@@ -19,7 +19,7 @@
   - [Towards better token distribution](https://medium.com/bankless-dao/towards-better-token-distribution-26f056dc5e55)
   - Example ASTROPORT:
     - [Phase 1](https://docs.astroport.fi/astroport/extras/lockdrop/phase-1-or-lockdrop)  
-    - [Phase 1](https://docs.astroport.fi/astroport/extras/lockdrop/phase-2-or-bootstrapping-pool)
+    - [Phase 2](https://docs.astroport.fi/astroport/extras/lockdrop/phase-2-or-bootstrapping-pool)
     - [Recapping ASTROPORT's token launch](https://astroport.medium.com/mission-accomplished-recapping-astroports-phase-1-lockdrop-64d0c32e50cf)
     - [A data driven analysis of ASTROPORT's token launch](https://medium.com/@incioman/astroport-launch-a-data-driven-analysis-430ac6928be8)
     - [ASTROPORT token launch explained](https://elenahoo.medium.com/astroport-launch-rewards-and-how-you-can-participate-4a8b1cc2499a)
@@ -36,7 +36,7 @@
     - [Mango fair token launch](https://docs.mango.markets/litepaper)
     - [Phase 1 Mango launch](https://twitter.com/tjshipe/status/1424886666783772679)
     - [Phase 2 Mango launch](https://twitter.com/tjshipe/status/1425555571709784069)
-    - [Flaws of Mango token launch] (https://twitter.com/tjshipe/status/1424886666783772679)
+    - [Flaws of Mango token launch](https://twitter.com/tjshipe/status/1424886666783772679)
 
 * Liquidity Bootstrapping Pools:
   - [Liquidity Bootstrapping pools](https://docs.balancer.fi/products/balancer-pools/liquidity-bootstrapping-pools-lbps)
