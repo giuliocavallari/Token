@@ -48,12 +48,14 @@
   - [Building liquidity in token distribution](https://medium.com/balancer-protocol/building-liquidity-into-token-distribution-a49d4286e0d4)
   - [Dynamic weight changes](https://medium.com/powerpool/dynamic-weights-changing-model-for-powerindex-the-amm-pool-of-8-tokens-6213f24f56f1)
   - [Understanding Balancer pools](https://medium.com/balancer-simulations/understanding-balancer-pools-c2b877dcc082)
+  - [Gro LBPs explained with examples](https://blog.gro.xyz/gro-lbp-how-price-discovery-works-in-an-lbp-95fe1acbd53c)
   - [LBP examples](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2)
   - [LBPs general article](https://globalcoinresearch.com/2022/01/19/liquidity-bootstrapping-pools-explained/)
   - [Copper - what is an LBP](https://docs.alchemist.wtf/copper/lbps/what-is-a-liquidity-bootstrapping-pool)
   - [WTF is an LBP twitter thread](https://twitter.com/GabrielGFoo/status/1470460354329071619)
   - Example PERP:
     - [Perp LBP analysis](https://twitter.com/perpprotocol/status/1305506540116344832)
+    - [Perp self-analysis](https://blog.perp.fi/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82)
 
   - LBPs simulations:
     - [Liquidity Bootstrapping Pool Simulation](https://docs.google.com/spreadsheets/d/125MgAqv0f81Qp6y9VZHAcwMkVhvdcNKA/edit#gid=745957496)
